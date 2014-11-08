@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="whatsthere-data-api:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="whatsthere-data-api.war">
+      <element id="artifact" artifact-name="whatsthere-data-api:war exploded" />
+    </root>
+  </artifact>
+</component>
